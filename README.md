@@ -166,19 +166,19 @@ review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
 
 ## Credits
 
-[![thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
+[![hackity](http://letshackity.com/images/logo_hackity.png)](http://letshackity.com)
 
-This repo is maintained and funded by [thoughtbot, inc](http://thoughtbot.com).
+This repo is maintained and funded by [Hackity LTD](http://letshackity.com).
 Tweet your questions or suggestions to
-[@thoughtbot](https://twitter.com/thoughtbot)
+[@thoughtbot](https://twitter.com/hackity)
 and while you're at it follow us too.
 
 Looking to run your own design sprint but want help from someone who has
-experience running them before? [Hire us.](http://thoughtbot.com/hire-us)
+experience running them before? [Hire us.](http://letshackity.com/hire-us)
 
 ## License
 
-Copyright © 2015 [thoughtbot, inc](http://thoughtbot.com).
+Copyright © 2015 [Hackity LTD](http://letshackity.com).
 The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
