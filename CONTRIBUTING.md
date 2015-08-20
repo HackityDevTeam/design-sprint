@@ -10,7 +10,8 @@ If you are looking to contribute and are not sure where to start:
 3. Submit a [Pull Request](#quick-guide-to-submitting-a-pull-request-in-github).
 
 # New Ideas
-Any new ideas or major improvements can be added to a PR so that they can be discussed and tested. We especially like new exercises that might add to [Understand](https://github.com/thoughtbot/design-sprint/tree/master/1-Understand), [Diverge](https://github.com/thoughtbot/design-sprint/tree/master/2-Diverge) and [Converge](https://github.com/thoughtbot/design-sprint/tree/master/3-Converge).
+Any new ideas or major improvements can be added to a PR so that they can be discussed and tested. We especially like new exercises that might add to 
+[Understand](https://github.com/HackityDevTeam/design-sprint/tree/master/1-Understand), [Diverge](https://github.com/HackityDevTeam/design-sprinttree/master/2-Diverge) and [Converge](https://github.com/HackityDevTeam/design-sprint/tree/master/3-Converge).
 
 # Previous Sprints: Photos, Examples & Case studies
 The more examples that we have the better it will be to spread knowledge and experience of running the sprints. These are the steps for adding examples:
