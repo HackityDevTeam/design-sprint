@@ -158,6 +158,8 @@ to your own board to help guide and document your sprint.
 * [Personal Design Sprint](http://franciscortez.com/design-sprint/)
 * [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
 * [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
+* [Shopping list for sprint supplies Amazon List] (http://amzn.com/lm/RS9AYY6BTLDCM)
+* [The Design Sprint] (http://www.gv.com/sprint/)
 
 ## Contributing
 
