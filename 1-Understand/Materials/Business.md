@@ -28,13 +28,17 @@ What is your business and what do you envision it to be?
 *What metrics can we measure to monitor our progress and determine success?*
 -------------
 
-## Business Model Canvas
+## Social Business Model Canvas
 
-* Key Partners
+* Key Resources 
+* Partners + Key Stakeholders
+* Cost Structure
 * Key Activities
-* Key Resources
-* Value Propositions
-* Customer Relationships
-* Possible Channels
-* Customer Segments
-* Possible Revenue Streams
+* Type of Intervention
+* Channels
+* Surplus
+* Segments
+* Revenue
+* Value Proposition
+
+ [SBMC template](http://www.socialbusinessmodelcanvas.com/wp-content/uploads/Social-Business-Model-Canvas.png)
